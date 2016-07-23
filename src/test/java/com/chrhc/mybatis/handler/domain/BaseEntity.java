@@ -16,7 +16,7 @@ public class BaseEntity implements Serializable {
 	
 	private int pageNum;
 	private int pageSize;
-	private boolean count = true;
+	//private boolean count = true;
 	
 	public int getPageNum() {
 		return pageNum;
@@ -30,11 +30,11 @@ public class BaseEntity implements Serializable {
 	public void setPageSize(int pageSize) {
 		this.pageSize = pageSize;
 	}
-	public boolean getCount() {
-		return count;
-	}
-	public void setCount(boolean count) {
-		this.count = count;
-	}
+//	public boolean getCount() {
+//		return count;
+//	}
+//	public void setCount(boolean count) {
+//		this.count = count;
+//	}
 	
 }
