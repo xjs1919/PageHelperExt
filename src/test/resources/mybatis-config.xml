@@ -5,12 +5,12 @@
 <configuration>
 
 	<typeAliases>
-		<typeAlias alias="User" type="com.chrhc.mybatis.handler.domain.User" />
+		<typeAlias alias="User" type="com.github.xjs.mybatis.handler.domain.User" />
 	</typeAliases>
 		
-	<objectFactory type="com.chrhc.mybatis.pagehelper.ext.PageObjectFactory" />
+	<objectFactory type="com.github.xjs.mybatis.pagehelper.ext.PageObjectFactory" />
 	
-	<objectWrapperFactory type="com.chrhc.mybatis.pagehelper.ext.PageObjectWrapperFactory" />
+	<objectWrapperFactory type="com.github.xjs.mybatis.pagehelper.ext.PageObjectWrapperFactory" />
 	
 	<plugins>
 	    <plugin interceptor="com.github.pagehelper.PageHelper">

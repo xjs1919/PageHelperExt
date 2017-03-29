@@ -1,4 +1,4 @@
-package com.chrhc.mybatis.pagehelper.ext;
+package com.github.xjs.mybatis.pagehelper.ext;
 
 import java.util.List;
 

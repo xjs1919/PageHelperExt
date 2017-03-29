@@ -1,4 +1,4 @@
-package com.chrhc.mybatis.handler.mapper.test;
+package com.github.xjs.mybatis.handler.mapper.test;
 
 import java.io.InputStream;
 import java.util.List;
@@ -10,9 +10,9 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.chrhc.mybatis.handler.domain.User;
-import com.chrhc.mybatis.handler.mapper.UserMapper;
 import com.github.pagehelper.PageInfo;
+import com.github.xjs.mybatis.handler.domain.User;
+import com.github.xjs.mybatis.handler.mapper.UserMapper;
 
 public class UserMapperTest {
 	

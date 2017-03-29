@@ -1,7 +1,7 @@
-package com.chrhc.mybatis.handler.mapper;
+package com.github.xjs.mybatis.handler.mapper;
 
-import com.chrhc.mybatis.handler.domain.User;
 import com.github.pagehelper.PageInfo;
+import com.github.xjs.mybatis.handler.domain.User;
 
 public interface UserMapper {
 	

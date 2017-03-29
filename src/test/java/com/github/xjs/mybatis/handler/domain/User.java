@@ -1,4 +1,4 @@
-package com.chrhc.mybatis.handler.domain;
+package com.github.xjs.mybatis.handler.domain;
 
 import java.io.Serializable;
 

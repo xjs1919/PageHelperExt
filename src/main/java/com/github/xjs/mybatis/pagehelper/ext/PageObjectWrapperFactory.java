@@ -1,4 +1,4 @@
-package com.chrhc.mybatis.pagehelper.ext;
+package com.github.xjs.mybatis.pagehelper.ext;
 
 import org.apache.ibatis.reflection.MetaObject;
 import org.apache.ibatis.reflection.ReflectionException;
